@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/eccomerceUsingReduxAndFirebase/static/css/main.9d4f48bc.chunk.css",
-    "main.js": "/eccomerceUsingReduxAndFirebase/static/js/main.02ea5523.chunk.js",
-    "main.js.map": "/eccomerceUsingReduxAndFirebase/static/js/main.02ea5523.chunk.js.map",
+    "main.css": "/eccomerceUsingReduxAndFirebase/static/css/main.e73069c4.chunk.css",
+    "main.js": "/eccomerceUsingReduxAndFirebase/static/js/main.369f0765.chunk.js",
+    "main.js.map": "/eccomerceUsingReduxAndFirebase/static/js/main.369f0765.chunk.js.map",
     "runtime-main.js": "/eccomerceUsingReduxAndFirebase/static/js/runtime-main.62d1a5fc.js",
     "runtime-main.js.map": "/eccomerceUsingReduxAndFirebase/static/js/runtime-main.62d1a5fc.js.map",
     "static/js/2.f8586a11.chunk.js": "/eccomerceUsingReduxAndFirebase/static/js/2.f8586a11.chunk.js",
     "static/js/2.f8586a11.chunk.js.map": "/eccomerceUsingReduxAndFirebase/static/js/2.f8586a11.chunk.js.map",
     "index.html": "/eccomerceUsingReduxAndFirebase/index.html",
-    "static/css/main.9d4f48bc.chunk.css.map": "/eccomerceUsingReduxAndFirebase/static/css/main.9d4f48bc.chunk.css.map",
+    "static/css/main.e73069c4.chunk.css.map": "/eccomerceUsingReduxAndFirebase/static/css/main.e73069c4.chunk.css.map",
     "static/js/2.f8586a11.chunk.js.LICENSE.txt": "/eccomerceUsingReduxAndFirebase/static/js/2.f8586a11.chunk.js.LICENSE.txt",
     "static/media/crown.3a4e2b15.svg": "/eccomerceUsingReduxAndFirebase/static/media/crown.3a4e2b15.svg",
     "static/media/shopping-bag.a688874f.svg": "/eccomerceUsingReduxAndFirebase/static/media/shopping-bag.a688874f.svg"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.62d1a5fc.js",
     "static/js/2.f8586a11.chunk.js",
-    "static/css/main.9d4f48bc.chunk.css",
-    "static/js/main.02ea5523.chunk.js"
+    "static/css/main.e73069c4.chunk.css",
+    "static/js/main.369f0765.chunk.js"
   ]
 }
